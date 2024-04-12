@@ -1,4 +1,8 @@
-# Testing in Software
+# (Agile) Testing in Software
+
+## Use cases
+
+- [TypeScript](https://github.com/babelcodes/typescript/tree/master/doc/testing)
 
 ## Concepts
 
